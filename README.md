@@ -3,9 +3,9 @@
 Welcome to my personal archive of LeetCode problems solved using Python/Java.
 
 ## 📊 Stats
-- 🟢 Easy: 45
-- 🟡 Medium: 30
-- 🔴 Hard: 5
+- 🟢 Easy: 55
+- 🟡 Medium: 52
+- 🔴 Hard: 3
 
 ## 📚 Core Topics & Algorithms Covered
 - Arrays & Strings
