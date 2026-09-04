@@ -1,6 +1,6 @@
 # My LeetCode Solutions 🚀
 
-Welcome to my personal archive of LeetCode problems solved using Python/Java.
+Welcome to my personal archive of LeetCode problems solved using C/C++.
 
 ## 📊 Stats
 - 🟢 Easy: 55
